@@ -1,0 +1,13 @@
+/getPutDF1/*.vbproj
+/getPutDF1/*.vbproj.user
+/getPutDF1/My Project/
+/getPutDF1/bin/
+/getPutDF1/Resources/
+/getPutDF1/obj/
+/getPutDF1/*.ico
+/getPutDF1/*.png
+/getPutDF1/*.gif
+/getPutDF1/*.jpg
+/getPutDF1/*.resx
+*.sln
+*.suo
