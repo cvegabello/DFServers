@@ -96,9 +96,9 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(200, 121)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(71, 13)
+        Me.Label1.Size = New System.Drawing.Size(73, 13)
         Me.Label1.TabIndex = 20
-        Me.Label1.Text = "Feb/09/2021"
+        Me.Label1.Text = "May/31/2021"
         '
         'Form1
         '
